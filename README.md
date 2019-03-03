@@ -1,12 +1,12 @@
 # property-api
 ## This package holds a collection of properties in the database and exposes a RESTful API to interact with them
 ## Getting Started
- Set up PHP 7, Composer and MySQL 5.7.* on your local environment.
- git clone https://github.com/PoornimaKrishnasamy/property-api.git
- composer install
- run php artisan migrate --seed
- php artisan serve
- Visit http://127.0.0.1:8000
+### Set up PHP 7, Composer and MySQL 5.7.* on your local environment.
+- git clone https://github.com/PoornimaKrishnasamy/property-api.git
+- composer install
+- run php artisan migrate --seed
+- php artisan serve
+- Visit http://127.0.0.1:8000
 #
 #
 ## To list all properties
